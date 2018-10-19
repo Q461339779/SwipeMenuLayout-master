@@ -1,0 +1,11 @@
+/local.properties
+.externalNativeBuild
+/build
+.idea
+/local/proerties
+/captures
+.gradle
+.DS_Stroe
+/.idea/workspace.xml
+/.idea/libraries
+*.iml
